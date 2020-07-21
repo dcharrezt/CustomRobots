@@ -1,8 +1,0 @@
-/home/dd/github/CustomRobots/gazebo/plugins/_formula1/build/CMakeFiles/install/strip.dir
-/home/dd/github/CustomRobots/gazebo/plugins/_formula1/build/CMakeFiles/install/local.dir
-/home/dd/github/CustomRobots/gazebo/plugins/_formula1/build/CMakeFiles/install.dir
-/home/dd/github/CustomRobots/gazebo/plugins/_formula1/build/CMakeFiles/list_install_components.dir
-/home/dd/github/CustomRobots/gazebo/plugins/_formula1/build/CMakeFiles/rebuild_cache.dir
-/home/dd/github/CustomRobots/gazebo/plugins/_formula1/build/CMakeFiles/edit_cache.dir
-/home/dd/github/CustomRobots/gazebo/plugins/_formula1/build/CMakeFiles/formula1plugin.dir
-/home/dd/github/CustomRobots/gazebo/plugins/_formula1/build/CMakeFiles/formula1_headers.dir
